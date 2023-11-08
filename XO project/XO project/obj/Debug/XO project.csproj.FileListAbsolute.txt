@@ -1,0 +1,29 @@
+G:\Hossein\my program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe.config
+G:\Hossein\my program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe
+G:\Hossein\my program\windows application\Game\XO project\XO project\bin\Debug\XO project.pdb
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO project.csprojResolveAssemblyReference.cache
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Form1.resources
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Properties.Resources.resources
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.GenerateResource.Cache
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO project.exe
+G:\Hossein\my program\windows application\Game\XO project\XO project\obj\Debug\XO project.pdb
+F:\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe.config
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.exe
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.pdb
+F:\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe
+F:\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.pdb
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csprojResolveAssemblyReference.cache
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Form1.resources
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Properties.Resources.resources
+F:\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.GenerateResource.Cache
+G:\mft\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe.config
+G:\mft\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.exe
+G:\mft\My program\windows application\Game\XO project\XO project\bin\Debug\XO project.pdb
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.AssemblyReference.cache
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.SuggestedBindingRedirects.cache
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Form1.resources
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO_project.Properties.Resources.resources
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.GenerateResource.cache
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.csproj.CoreCompileInputs.cache
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.exe
+G:\mft\My program\windows application\Game\XO project\XO project\obj\Debug\XO project.pdb
